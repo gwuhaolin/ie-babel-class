@@ -1,0 +1,11 @@
+{
+  "name": "ie-babel-class",
+  "version": "1.0.0",
+  "description": "polyfill for use babel translate es6 for IE<=9 which use class super constructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

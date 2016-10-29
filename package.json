@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "IE",
+    "babel",
+    "react",
+    "super class"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gwuhaolin/ie-babel-class.git"
+  }
 }

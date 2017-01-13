@@ -29,3 +29,5 @@ use this as polyfill will fix it.
 npm i ie-babel-class
 ```
 then import is before any js.
+see https://github.com/babel/babel/issues/3041
+http://fedvic.com/2016/01/15/extendInBabel/
